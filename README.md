@@ -14,7 +14,7 @@ Experience the best hospitality and comfort at M4 Guest House. Nestled in the se
 
 ## 🚀 Getting Started
 
-1. **Visit the Website**: Open your web browser and go to [M4 Guest House Makli]([https://saadathussain019.github.io/m4/]).
+1. **Visit the Website**: Open your web browser and go to [M4 Guest House Makli]([https://saadathussain019.github.io/m4/])
 
 2. **Explore**: Navigate through the website to discover our facilities, directions, and contact information.
 
